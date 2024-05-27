@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/bdaywebsite/static/css/main.2463701e.css",
+    "main.js": "/bdaywebsite/static/js/main.9e341819.js",
+    "static/js/453.52a2d4d9.chunk.js": "/bdaywebsite/static/js/453.52a2d4d9.chunk.js",
+    "static/media/IMAGE4.1.png": "/bdaywebsite/static/media/IMAGE4.1.45c49fb2db81d2689580.png",
+    "static/media/IMAGE6.png": "/bdaywebsite/static/media/IMAGE6.60769fd0feb76392cc3c.png",
+    "static/media/IMAGE5.1.png": "/bdaywebsite/static/media/IMAGE5.1.1d7f1d45d912b81a137f.png",
+    "static/media/IMAGE1.png": "/bdaywebsite/static/media/IMAGE1.eef5b3e86fc4522cb6df.png",
+    "static/media/IMAGE5.2.JPG": "/bdaywebsite/static/media/IMAGE5.2.0fc5bc2805b62ceccade.JPG",
+    "static/media/IMAGE4.2.JPG": "/bdaywebsite/static/media/IMAGE4.2.e71d1653f3164d481dbd.JPG",
+    "static/media/NIGHTCITYBW.png": "/bdaywebsite/static/media/NIGHTCITYBW.4709c4cdccf272c36c88.png",
+    "static/media/STARRYSKY.png": "/bdaywebsite/static/media/STARRYSKY.f9ea8fec5ea18360257e.png",
+    "static/media/dcbg.png": "/bdaywebsite/static/media/dcbg.b94fcb4e5377384c4eef.png",
+    "static/media/teemo.png": "/bdaywebsite/static/media/teemo.e591579258d26342693a.png",
+    "static/media/SPACE.png": "/bdaywebsite/static/media/SPACE.31c1ca2b6363d7f2ca1f.png",
+    "static/media/IMAGE2.JPG": "/bdaywebsite/static/media/IMAGE2.4a53a6494e05105d8a44.JPG",
+    "static/media/IMAGE3.jpg": "/bdaywebsite/static/media/IMAGE3.b3a3a30e094baa3815b1.jpg",
+    "static/media/T1.png": "/bdaywebsite/static/media/T1.6db70fe53ce8df1adf8b.png",
+    "static/media/OCE.png": "/bdaywebsite/static/media/OCE.51e5a2a98042e6eb561a.png",
+    "static/media/Rocket.png": "/bdaywebsite/static/media/Rocket.ac89e30f5a280555761f.png",
+    "static/media/BUBOAT.png": "/bdaywebsite/static/media/BUBOAT.46f1ba2d53c8524d6c3c.png",
+    "index.html": "/bdaywebsite/index.html",
+    "main.2463701e.css.map": "/bdaywebsite/static/css/main.2463701e.css.map",
+    "main.9e341819.js.map": "/bdaywebsite/static/js/main.9e341819.js.map",
+    "453.52a2d4d9.chunk.js.map": "/bdaywebsite/static/js/453.52a2d4d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2463701e.css",
+    "static/js/main.9e341819.js"
+  ]
+}
